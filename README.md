@@ -55,4 +55,5 @@ Key Questions Such As:
 * Revenue Stability	: The sales peaks in July and January suggest seasonal promotions or events may be driving demand. Understanding these specific drivers can help stabilize revenue throughout the year, especially during the lower months (e.g., September/October).
 
 8. Screenshots / Demos :
-Show what the Dashboard Looks Like : [Alt Text] (
+Show what the Dashboard Looks Like : [Alt Text] (https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
+
