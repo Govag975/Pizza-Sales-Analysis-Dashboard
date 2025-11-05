@@ -56,6 +56,16 @@ Key Questions Such As:
 
 8. Screenshots / Demos :
 Show what the Dashboard Looks Like :
-Link 1 : ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
-Link 2 : ![Alt Text](
+
+Link 1 :
+
+![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
+
+Link 2 :
+
+![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121950.png)
+
+Example : 
+
+![Dashboard Preview](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
 
