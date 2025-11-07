@@ -79,6 +79,6 @@ Link 4 (Tableau Home Dashboard ):
 
 Link 1 (Power BI Home Dashboard ):
 
-![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
+![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-07%20082722.png)
 
 
