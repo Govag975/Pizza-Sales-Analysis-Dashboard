@@ -77,7 +77,7 @@ Link 4 (Tableau Home Dashboard ):
 
 ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-07%20082630.png)
 
-Link 1 (Power BI Home Dashboard ):
+Link 5 (Tableau Best/ Worst Sellers Dashboard ):
 
 ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-07%20082722.png)
 
