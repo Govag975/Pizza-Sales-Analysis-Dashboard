@@ -65,10 +65,6 @@ Link 2 ( Power BI Best/Worst Sellers Dashboard) :
 
 ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121950.png)
 
-Example : 
-
-![Dashboard Preview](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
-
 Link 3 (MS Excel Pizza Analysis Dashboard ):
 
 ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-07%20081054.png)
@@ -81,4 +77,6 @@ Link 5 (Tableau Best/ Worst Sellers Dashboard ):
 
 ![Alt Text](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-07%20082722.png)
 
+Example : 
 
+![Dashboard Preview](https://github.com/Govag975/Pizza-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-11-04%20121930.png)
